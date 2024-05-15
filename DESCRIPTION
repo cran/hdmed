@@ -1,6 +1,6 @@
 Package: hdmed
 Title: Methods for Mediation Analysis with High-Dimensional Mediators
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     c(person(given = "Dylan",
            family = "Clark-Boucher",
@@ -42,8 +42,8 @@ Imports: bama (>= 1.3.0), foreach (>= 1.5.2), freebird (>= 1.0), gcdnet
         1.0.14), MASS, mediation (>= 4.5.0), ncvreg (>= 3.13.0), stats,
         utils
 NeedsCompilation: no
-Packaged: 2023-02-25 16:46:06 UTC; dc48b
+Packaged: 2024-05-14 23:00:04 UTC; dc48b
 Author: Dylan Clark-Boucher [aut, cre],
   Mike Kleinsasser [aut]
 Repository: CRAN
-Date/Publication: 2023-02-27 08:42:31 UTC
+Date/Publication: 2024-05-15 02:40:07 UTC

@@ -171,7 +171,7 @@ table, which includes the indirect effect (the global mediation effect),
 the direct effect, and the total effect. In theory, one can use these
 estimates to report the proportion mediated, as described above, but
 since the proportion mediated is generally only useful when
-$\mathbf{\alpha_a}^T \mathbf{\beta_m}$ and $beta_m$ have the same sign,
+$\mathbf{\alpha_a}^T \mathbf{\beta_m}$ and $\beta_m$ have the same sign,
 we will not do so here.
 
 ``` r
@@ -186,10 +186,10 @@ hima_out$effects
 
 This package serves as companion code for our paper, “Methods for
 Mediation Analysis with High-Dimensional DNA Methylation Data: Possible
-Choices and Comparison.” To give our work proper credit, use the
+Choices and Comparison.” To give our work proper credit, please use the
 citation provided below:
 
-> Dylan Clark-Boucher, Xiang Zhou, Jiacong Du, Yongmei Liu, Belinda L
-> Needham, Jennifer A Smith, Bhramar Mukherjee (2023). Methods for
-> Mediation Analysis with High-Dimensional DNA Methylation Data:
-> Possible Choices and Comparison. medRxiv 2023.02.10.23285764
+> Clark-Boucher D, Zhou X, Du J, Liu Y, Needham BL, Smith JA, et
+> al. Methods for mediation analysis with high-dimensional DNA
+> methylation data: Possible choices and comparisons. PLOS Genetics.
+> 2023 Nov;19(11):1–26.
